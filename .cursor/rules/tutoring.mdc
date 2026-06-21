@@ -1,0 +1,9 @@
+---
+description: Agent-neutral tutoring rules for the autograd learning project
+alwaysApply: true
+---
+
+Read and follow `TUTORING.md`. It is the source of truth for this project.
+
+This is a guided learning exercise. The learner writes `engine.py`; the assistant tutors,
+hints, checks tests, and updates `progress.md` after milestones.

@@ -26,5 +26,15 @@ and ask to move on when ready for the next milestone.
 
 The tests decide when you're done - not the tutor. When they all pass, you've built it.
 
-Next up: **Project 2 - Build & train a neural net**, where you put this engine to work and
-train a real (tiny) network.
+Next up: **[Project 2 - Build & train a neural net](https://onlearn.app/projects/nn-zero-to-hero/neural-net-training)**,
+where you put this engine to work and train a real (tiny) network.
+
+---
+
+## More from Onlearn
+
+This is **Project 1** of **[Neural Networks: Zero to Hero](https://onlearn.app/projects/nn-zero-to-hero)**
+on Onlearn — guided, build-it-yourself projects with an AI tutor that checks your work against
+the tests.
+
+**[→ Explore more courses](https://onlearn.app/projects)**
